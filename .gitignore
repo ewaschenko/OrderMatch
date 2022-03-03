@@ -1,0 +1,9 @@
+bin
+obj
+packages
+.vs
+.vscode
+.log
+*.log
+*.user
+**/node_modules
